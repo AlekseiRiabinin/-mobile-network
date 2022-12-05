@@ -11,3 +11,6 @@ Telecom, Advertising platforms, IT company, Startups, Business services [b2b]
 - Numpy
 - Scipy
 - Matplotlib
+
+## 4. Results
+Revenue from the 'ultra' tariff is almost 2 times higher than the 'smart' tariff. The main source for 'ultra' tariff is subscription fees, while the benefits from 'smart' tariff are evenly distributed between payment for services and the subscription fee. As a result, future trend is to get rid of text messages and focus on Internet services.
